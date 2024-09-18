@@ -9,7 +9,7 @@ VoiceDeck aims to create a decentralized ecosystem where journalism is supported
 In this project, we will use Hypercerts to mint the impact reports. Anon aadhaar for KYC & Sybil resistant.
 
 ### Be part of core contributors
-We are open and welcome anyone who wants to join the working group, you can view the open issues or join our discord chat, https://discord.gg/tAR7khdjfZ  (Accelerated by Pollen Labs, https://pollenlabs.org/)
+We are open and welcome anyone who wants to join the working group, you can view the open issues or join our discord chat, https://discord.gg/5B3jP2sgWS (Accelerated by Pollen Labs, https://pollenlabs.org/)
 <!--
 
 **Here are some ideas to get you started:**
